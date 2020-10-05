@@ -1,13 +1,13 @@
-package com.rookie.bilibilibean;
+package com.rookie.bilibilisecurity;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BilibiliBeanApplication {
+public class BilibiliSecurityApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(BilibiliBeanApplication.class, args);
+        SpringApplication.run(BilibiliSecurityApplication.class, args);
     }
 
 }

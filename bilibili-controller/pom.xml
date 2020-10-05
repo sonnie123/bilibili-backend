@@ -30,6 +30,16 @@
         </dependency>
         <dependency>
             <groupId>com.rookie</groupId>
+            <artifactId>bilibili-util</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>com.rookie</groupId>
+            <artifactId>bilibili-security</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>com.rookie</groupId>
             <artifactId>bilibili-bean</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>

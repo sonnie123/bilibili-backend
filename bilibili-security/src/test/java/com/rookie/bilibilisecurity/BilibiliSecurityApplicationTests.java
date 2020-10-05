@@ -1,10 +1,10 @@
-package com.rookie.bilibilibean;
+package com.rookie.bilibilisecurity;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BilibiliBeanApplicationTests {
+class BilibiliSecurityApplicationTests {
 
     @Test
     void contextLoads() {

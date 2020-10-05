@@ -8,6 +8,8 @@
         <module>bilibili-dao</module>
         <module>bilibili-service</module>
         <module>bilibili-controller</module>
+        <module>bilibili-security</module>
+        <module>bilibili-util</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
